@@ -1,0 +1,6 @@
+kr/goodee/StswebjpaApplication.class
+kr/goodee/mem/Member.class
+kr/goodee/mem/MemberSvcImpl.class
+kr/goodee/mem/MemberController.class
+kr/goodee/mem/MemberRepository.class
+kr/goodee/mem/MemberSvc.class
